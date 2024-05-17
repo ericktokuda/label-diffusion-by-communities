@@ -1,2 +1,2 @@
-# Label diffusion by communities
+# Philogram-based data labeling
 Label diffusion by Communities
