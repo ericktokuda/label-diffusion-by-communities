@@ -1,4 +1,4 @@
-# Philogram-based data labeling
+# Phylogram-based data labeling
 Label diffusion by Communities
 
 Graph Measures
